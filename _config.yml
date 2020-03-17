@@ -31,6 +31,7 @@ url: "https://vincenius.com" # the base hostname & protocol for your site, e.g. 
 twitter_username: vincenius_
 github_username: Vincenius
 instagram_username: vincenius_art
+facebook_username: vinceniusart
 
 # Build settings
 plugins:
